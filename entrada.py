@@ -4,3 +4,4 @@ apellido = input("Ingresar su Apellido")
 edad = input("Ingresar su edad")
 
 #Imprimimos lo capturado por teclado
+print("")
